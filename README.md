@@ -12,4 +12,4 @@
 ---
 
 ## 1. Data Structure
-:arrow_forward: [질문 & 답변](/Data Structure/Questions.md)
+:arrow_forward: [질문 & 답변](/DataStructure/Questions.md)
