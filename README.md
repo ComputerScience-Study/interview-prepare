@@ -38,9 +38,10 @@
 ---
 
 ## 1. Data Structure
-:arrow_forward: [질문 & 답변](/DataStructure/Questions.md)
+:arrow_forward: [질문 & 답변](/DataStructure/README.md)
 
 ## 2. Network
+:arrow_forward: [질문 & 답변](/Network/README.md)
 
 ## 3. Operating System
 
