@@ -6,6 +6,8 @@
 ## Rule
 **매주 화요일 오후 7시반 3:1 면접 형식으로 진행, 1인당 2-3개의 질문(총 8~12)을 준비하여 랜덤 질문에 대해 답변**
 
+**스터디 시작 전 정리 자료 올리기(형식: Answer_{name}.md)**
+
 ### Collaborator
 <table>
   <tr>
@@ -38,10 +40,10 @@
 ---
 
 ## 1. Data Structure
-:arrow_forward: [질문 & 답변](/DataStructure/README.md)
+:arrow_forward: [질문](/DataStructure/README.md)
 
 ## 2. Network
-:arrow_forward: [질문 & 답변](/Network/README.md)
+:arrow_forward: [질문](/Network/README.md)
 
 ## 3. Operating System
 
