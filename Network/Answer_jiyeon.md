@@ -50,6 +50,7 @@ https://tecoble.techcourse.co.kr/post/2021-05-24-apache-tomcat/
 https://bentist.tistory.com/36
 
 - DNS에 대해 설명해주세요.
+![](./image/DNS-동작과정.jpg)
 
 [답변]
 
